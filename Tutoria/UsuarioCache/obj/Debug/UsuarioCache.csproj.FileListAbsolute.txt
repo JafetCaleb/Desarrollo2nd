@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\2021 I\desarollo de software\Tutoria\UsuarioCache\bin\Debug\UsuarioCache.dll
+C:\Users\HP\Desktop\2021 I\desarollo de software\Tutoria\UsuarioCache\bin\Debug\UsuarioCache.pdb
+C:\Users\HP\Desktop\2021 I\desarollo de software\Tutoria\UsuarioCache\obj\Debug\UsuarioCache.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\2021 I\desarollo de software\Tutoria\UsuarioCache\obj\Debug\UsuarioCache.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\2021 I\desarollo de software\Tutoria\UsuarioCache\obj\Debug\UsuarioCache.dll
+C:\Users\HP\Desktop\2021 I\desarollo de software\Tutoria\UsuarioCache\obj\Debug\UsuarioCache.pdb
